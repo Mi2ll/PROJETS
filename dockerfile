@@ -1,1 +1,1 @@
-FROM <source_image>
+FROM node:latest
